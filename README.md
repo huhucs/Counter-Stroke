@@ -6,3 +6,5 @@ To use the scrim setting you need to also have the unpracc.cfg in your CS2 cfg f
 I usually update the config online immediately when i change something.
 
 ONLY DOWNLOAD THE CONFIG FROM THIS GITHUB ACCOUNT! huhucs TO MAKE SURE IT'S VIRUSFREE!
+
+You can always message me if there are some missing settings or other difficutltys with installing etc.
